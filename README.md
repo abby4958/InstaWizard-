@@ -1,4 +1,4 @@
-# InstaGenie: AI-Powered Instagram Marketing Automation
+# InstaWizard: AI-Driven Instagram Marketing Automation
 
 Welcome to the InstaGenie: AI-Powered Instagram Marketing Automation project, powered by [crewAI](https://crewai.com). This template is designed to set up a multi-agent AI system with ease, leveraging the powerful and flexible framework provided by crewAI. Our goal is to enable AI agents to collaborate effectively on complex tasks, maximizing their collective intelligence and capabilities.
 
